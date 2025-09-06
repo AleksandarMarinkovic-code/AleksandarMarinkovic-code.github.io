@@ -1,0 +1,22 @@
+body {
+background-color: beige;
+}
+h1 { text-align: center;
+color: red;
+text-family: Arial;
+}
+h2 { text-align: center;
+color: blue;
+text-family: Arial;
+}
+p { text-align: center;
+color: black;
+text-family: Trebuchet MS;
+}
+body { text-align:center;
+}
+button {
+background-color:red;
+color:white;
+border-radius:20px
+}
