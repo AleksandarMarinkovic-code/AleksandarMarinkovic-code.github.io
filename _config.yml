@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: My first homepage
-
+github:
+is_project_page: false
